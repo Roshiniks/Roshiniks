@@ -30,7 +30,7 @@ With a strong grip on SQL and Python, I love diving deep into data, uncovering p
 `Statistics` (Descriptive, Inferential, Hypothesis Testing, A/B Testing) | `EDA` | `Data Cleaning` | `Data Visualization` |`Storytelling with Data`
 
 **Learning:**  
-`Machine Learning` | `Deep Learning (Keras, TensorFlow)` | `NLP` | `Model Evaluation & Metrics`
+`Machine Learning` | `Model Evaluation & Metrics`
 
 ---
 
